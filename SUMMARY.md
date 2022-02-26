@@ -14,6 +14,8 @@
 * [计算机基础](computer_base/README.md)
     * [操作系统](computer_base/operating_system/README.md)
     * [网络](computer_base/networker/README.md)
+    * [数据结构与算法](computer_base/data_structures_and_algorithms/README.md)
+    * [设计模式](computer_base/design_model/README.md)
 
 -----
 * [Java](java/README.md)
@@ -21,6 +23,17 @@
     * [集合](java/collection/README.md)
     * [并发](java/concurrency/README.md)
     * [JVM](java/jvm/README.md)
+* [Web开发](web_develop/README.md)
+    * [java web框架](web_develop/java/README.md)
+        * [Spring](web_develop/java/spring/README.md)
+        * [SpringMVC](web_develop/java/springmvc/README.md)
+        * [SpringBoot](web_develop/java/springboot/README.md)
+        * [SpringCloud](web_develop/java/springcloud/README.md)
+    * [数据库连接池](database_connection_pools/README.md)
+    * [数据库中间件](database_middleware/README.md)
+    * [ORM框框](web_develop/orm/README.md)
+        * [mybatis](web_develop/orm/mybatis/README.md)
+        * [mybatis-plus](web_develop/orm/mybatis_puls/README.md)
 * [作业调度](job_scheduing/README.md)
     * [Elastic Job Lite](job_scheduing/elastic_job_lite/README.md)
     * [Elastic Jbo Cloud](job_scheduing/elastic_job_cloud/README.md)
@@ -80,10 +93,20 @@
     * [Redis](database/redis/README.md)
     * [MongoDB](database/mongodb/README.md)
     * [TiDB](database/tidb/README.md)
+* [数据库连接池](database_connection_pools/README.md)
+    * [Druid](database_connection_pools/druid/README.md)
+* [数据库中间件](database_middleware/README.md)
+    * [Sharding JDBC](database_middleware/sharding_jdbc/README.md)
+    * [Sharding_Sphere](database_middleware/sharding_sphere/README.md)
+    * [MyCAT](database_middleware/mycat/README.md)
+    * [Canal](database_middleware/canal/README.md)
 * [搜索引擎](search_engine/README.md)
     * [Elasticsearch](search_engine/elasticsearch/README.md)
     * [Solr](search_engine/solr/README.md)
     * [Lucene](search_engine/lucene/README.md)
+* [容器与微服务]
+    * [k8s](k8s/README.md)
+    * [docker](k8s/docker/README.md)
 * [工具类](utils/README.md)
     * [RxJava](utils/rxjava/README.md)
     * [Guava](utils/guava/README.md)
@@ -91,4 +114,15 @@
     * [谷粒商城](projects/gulimall/README.md)
         * [1.nacos gateway sentinel sleuth](projects/gulimall/1.nacos、gateway、sentinel、sleuth.md)
         * [2.环境搭建](projects/gulimall/2.环境搭建.md)
+* [开发软件](software/README.md)
+    * [maven](software/maven/README.md)
+    * [Git](software/git/README.md)
+    * [Intellij IDEA](software/intellij/README.md)
+* [大数据](bigdata/README.md)
+    * [Spark]
+    * [Hadoop]
+    * [Flink]
+    * [Zookeeper]
+    * [Hive]
+    * [HBase]
 
