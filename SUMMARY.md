@@ -87,4 +87,8 @@
 * [工具类](utils/README.md)
     * [RxJava](utils/rxjava/README.md)
     * [Guava](utils/guava/README.md)
+* [项目类学习](projects/README.md)
+    * [谷粒商城](projects/gulimall/README.md)
+        * [1.nacos gateway sentinel sleuth](projects/gulimall/1.nacos、gateway、sentinel、sleuth.md)
+        * [2.环境搭建](projects/gulimall/2.环境搭建.md)
 
